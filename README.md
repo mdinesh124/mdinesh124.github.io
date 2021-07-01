@@ -1,1 +1,1 @@
-[https://mdinesh124.github.io/]
+https://mdinesh124.github.io/
