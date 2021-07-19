@@ -19,7 +19,7 @@ $(document).ready(function()
         		$('.menu-btn i').toggleClass("active");
     		});
 
-
+//scroll text
 var typed = new Typed(".type", {
         strings: ["Student", "Code enthusiast", "Web Developer", "Melomaniac"],
         typeSpeed: 70,
